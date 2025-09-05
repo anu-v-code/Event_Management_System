@@ -1,11 +1,11 @@
 **Event Management System**
 
-A Spring Boot application for managing events, attendees, and registrations.  
+A Spring Boot application for managing events, attendees, and organizers.  
 This project demonstrates the use of **Spring Boot, REST APIs, Maven and Hibernate**.
 
  Features
 - Create, update, and delete events
-- Manage attendees and registrations
+- Manage attendees and organizers
 
 ---
 
